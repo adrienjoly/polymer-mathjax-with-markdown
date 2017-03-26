@@ -1,13 +1,13 @@
 {
-  "name": "app-route-app",
+  "name": "polymer-mathjax-with-markdown",
   "authors": [
+    "Adrien Joly <adrien.joly@gmail.com>",
     "Rob Dodson <robdodson@google.com>",
     "Dimitar Danailov <dimityr.danailov@gmail.com>"
   ],
-  "description": "",
-  "main": "",
+  "description": "Render math formulas using Polymer, Markdown and MathJax",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/adrienjoly/polymer-mathjax-with-markdown",
   "private": true,
   "ignore": [
     "**/.*",
@@ -19,6 +19,7 @@
   "dependencies": {
     "webcomponentsjs": "^0.7.22",
     "polymer": "^1.6.0",
-    "MathJax": "^2.6.1"
+    "MathJax": "^2.6.1",
+    "zero-md": "^0.2.0"
   }
 }
