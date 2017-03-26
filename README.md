@@ -6,4 +6,4 @@ MathJax version is 2.6.1
 
 Zeromd version is 0.2.0
 
-![screenshot](screenshot.png)
+![screenshot](screenshot-zero-md.png)
